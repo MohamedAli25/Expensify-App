@@ -23,9 +23,7 @@
     "react-redux": "^7.2.0",
     "react-router-dom": "^5.2.0",
     "redux": "^4.0.5",
-    "uuid": "^8.2.0"
-  },
-  "devDependencies": {
+    "uuid": "^8.2.0",
     "@babel/cli": "^7.10.3",
     "@babel/core": "^7.10.3",
     "@babel/plugin-proposal-object-rest-spread": "^7.10.3",
